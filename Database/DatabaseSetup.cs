@@ -9,7 +9,6 @@ class DatabaseSetup
   {
       _databaseConfig = databaseConfig;
       CreateComputerTable();
-      CreateLabTable();
   }
     private void CreateComputerTable()
     {
@@ -33,8 +32,4 @@ class DatabaseSetup
         connection.Close();
     }
 
-    public void CreateLabTable()
-    {
-
-    }
 }
