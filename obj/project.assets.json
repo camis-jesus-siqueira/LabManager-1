@@ -285,11 +285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\LabManager\\LabManager.csproj",
+      "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\Sp3044271\\LabManager\\LabManager.csproj",
       "projectName": "LabManager",
-      "projectPath": "C:\\Users\\IFSP\\Desktop\\LabManager\\LabManager.csproj",
+      "projectPath": "C:\\Users\\IFSP\\Desktop\\Sp3044271\\LabManager\\LabManager.csproj",
       "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IFSP\\Desktop\\LabManager\\obj\\",
+      "outputPath": "C:\\Users\\IFSP\\Desktop\\Sp3044271\\LabManager\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
