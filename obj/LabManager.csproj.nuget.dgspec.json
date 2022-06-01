@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IFSP\\Desktop\\Sp3044271\\LabManager\\LabManager.csproj": {}
+    "C:\\Users\\Administrator\\Documents\\GitHub\\LabManager\\LabManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IFSP\\Desktop\\Sp3044271\\LabManager\\LabManager.csproj": {
+    "C:\\Users\\Administrator\\Documents\\GitHub\\LabManager\\LabManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IFSP\\Desktop\\Sp3044271\\LabManager\\LabManager.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\LabManager\\LabManager.csproj",
         "projectName": "LabManager",
-        "projectPath": "C:\\Users\\IFSP\\Desktop\\Sp3044271\\LabManager\\LabManager.csproj",
-        "packagesPath": "C:\\Users\\IFSP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IFSP\\Desktop\\Sp3044271\\LabManager\\obj\\",
+        "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\LabManager\\LabManager.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\LabManager\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\IFSP\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
